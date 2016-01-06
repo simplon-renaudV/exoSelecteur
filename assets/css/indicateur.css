@@ -1,7 +1,13 @@
 .indicateur li{
+	position:relative;
+    display:inline-block;
     background:#bfd70e;
     border-radius:50%;
-    height:100px;
-    width:100px;
+    height:90px;
+    width:90px;
     border:2px solid #679403;
+}
+
+.indicateur li:nth-child(4), li:nth-child(7), li:nth-child(12){
+	background:red;
 }

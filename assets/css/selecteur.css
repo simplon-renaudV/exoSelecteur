@@ -1,1 +1,32 @@
-.master{}
+
+.master div{
+	position:relative;
+	width:49%;
+	float:left;
+	margin-left:10px;
+	background-color: #98b98b;
+	margin-bottom: 10px;
+}
+
+.master img{
+	padding-left:10px;
+	position:relative;
+	float:left;
+	width:45%;
+	margin-right:10px;
+	padding-bottom:10px;
+}
+
+.master h3{
+	text-transform:uppercase;
+	padding-right:10px;
+	color:white;
+}
+
+.master p{
+	padding-right:10px;
+}
+
+.master h2{
+	margin-left:10px;
+}
